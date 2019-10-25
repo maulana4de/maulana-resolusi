@@ -1,0 +1,9 @@
+Dalam 2 tahun kedepan beberapa rencana sudah dipikirkan, antara lain :
+- Selama 2 tahun ini fokus mendalami Bahasa Pemrograman Javascript di sisi Client Server Side
+
+Apa yang dipelajari :
+- Javascript Fundamental
+- Object Oriented Javascript
+- Document Object Manipulation
+- Ecma Script 6 / 2005
+- ReactJS 
